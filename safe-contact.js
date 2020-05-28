@@ -24,6 +24,7 @@ Phone example & explanation for hiding 004 0733 238 158
 
 If you use this script, it is very important to customize it, replace the class names and tags,
 don't make it easy for the bad guys. If it's a pattern, they will get the hang of it.
+Please note that this method is not 100% safe, but is better than nothing.
 Credits https://gist.github.com/MoOx/9167991
  */
 
