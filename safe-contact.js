@@ -2,7 +2,7 @@
 This javascript makes your contact info invisible to web scrapers.
 A typical web scraper does not have a js engine, it does not render javascript,
 as a result, we only display the real contact information as soon as the page has loaded.
-They usually look for mailto: and tel: URI scheme or just use some email regex, but we
+Scrapers usually look for mailto: and tel: URI scheme or just use some email regex, but we
 don't use them in our HTML page, we hide our information under <a> link tag.
 
 Email example & explanation for hiding moox@github.com
